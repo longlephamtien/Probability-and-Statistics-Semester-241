@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# Except PDF files
+!*.pdf
+
+# Except R code files
+!*.R
+
+# Allow .gitignore file
+!.gitignore
